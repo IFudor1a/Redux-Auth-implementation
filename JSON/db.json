@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": "6b87640b-c302-4f70-ad68-e8617b596977",
+      "name": "Alisher",
+      "Surname": "Berik",
+      "email": "alisher.berik222@gmail.com",
+      "password": "123",
+      "Access": false
+    },
+    {
+      "id": "618d5088-f1db-464a-b22d-fbcad5fe9d5c",
+      "name": "Alisher",
+      "Surname": "Berik",
+      "email": "alisher.berik223@gmail.com",
+      "password": "124",
+      "Access": false
+    },
+    {
+      "id": "618d5088-f1db-464a-b22d-fbcad5fe9d5c",
+      "name": "Alisher",
+      "Surname": "Berik",
+      "email": "alisher.berik220@gmail.com",
+      "password": "125",
+      "Access": false
+    },
+    {
+      "id": "df20a795-cf0f-461f-9129-7548a5728add",
+      "name": "Alisher",
+      "Surname": "Berik",
+      "email": "alisher.berik221@gmail.com",
+      "password": "126",
+      "Access": false
+    },
+    {
+      "id": "6nyy64f6n029keshnliqu",
+      "name": "123",
+      "surname": "123",
+      "email": "123",
+      "password": "123",
+      "Access": false
+    },
+    {
+      "id": "cyhcm0cjvunp0aiti6f78c",
+      "name": "124",
+      "surname": "124",
+      "email": "124",
+      "password": "124",
+      "Access": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+.Login {
+    display: flex;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+}
+.Login input {
+    padding: 12px 24px;
+    width: 40%;
+    letter-spacing: 2px;
+    font-weight: 600;
+}
+.Login h3 {
+    letter-spacing: 2px;
+    font-weight: 700;
+}
+.Login button {
+    background-color: #FF5154;
+    padding: 12px 24px;
+    border: 1px solid #FF5154;
+    width: 40%;
+    color: #FFFFFF;
+    letter-spacing: 2px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.Login button:hover {
+    background-color: #EB5E55;
+}
+.Login a {
+    cursor: pointer;
+    letter-spacing: 1px;
+}
